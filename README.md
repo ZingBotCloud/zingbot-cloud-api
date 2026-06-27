@@ -1,51 +1,31 @@
-# 🚀 ZingBot Cloud API
+# 📚 ZingBot Cloud Documentation
 
-Official Backend API for ZingBot Cloud.
+Welcome to the official documentation repository of ZingBot Cloud.
 
-## 🌍 About
+## 🌍 What is ZingBot Cloud?
 
-ZingBot Cloud is a SaaS platform that helps Web3 projects create, manage and automate community bots without writing code.
+ZingBot Cloud is a SaaS platform that enables Web3 creators, businesses and communities to build, manage and automate powerful bots without writing code.
 
-## ✨ Features
+## 📖 Documentation
 
-- 🔐 User Authentication
-- 🏢 Workspace Management
-- 🤖 Bot Management
-- 📊 Dashboard API
-- 💳 Subscription System
-- 🤝 Affiliate Program
-- 🤖 AI Assistant
-- 🎥 Community Meetings
+This repository contains the official documentation for:
 
-## 🛠️ Tech Stack
+- Vision
+- Mission
+- Roadmap
+- Architecture
+- API
+- Installation
+- Security
+- Privacy Policy
+- Terms of Service
+- Affiliate Program
 
-- FastAPI
-- SQLAlchemy
-- PostgreSQL
-- SQLite (Development)
-- JWT Authentication
+## 🚀 Current Status
 
-## 📌 Project Status
+Active Development
 
-🚧 Active Development
-
-Version: **0.1.0**
-
-## 📂 Project Structure
-
-backend/
-├── main.py
-├── auth.py
-├── workspace.py
-├── database.py
-├── models.py
-├── config.py
-├── security.py
-└── schemas.py
-
-## 📄 License
-
-MIT License
+Documentation Version: 0.1.0
 
 ---
 
