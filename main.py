@@ -1,5 +1,6 @@
 from fastapi import FastAPI
 import auth
+import workspace
 
 app = FastAPI(
     title="ZingBot Cloud API",
@@ -8,7 +9,7 @@ app = FastAPI(
 )
 
 app.include_router(auth.router)
-
+app.include_router(workspace.router)
 
 @app.get("/")
 def home():
